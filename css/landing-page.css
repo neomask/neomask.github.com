@@ -190,7 +190,8 @@ p.copyright {
 }
 
 .navbar-default {
-	min-height:75px;
+	min-height:0px;
+	max-height:0px;
 }
 
 /*.mask:hover + .mask-img {
