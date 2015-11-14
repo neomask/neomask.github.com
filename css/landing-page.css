@@ -194,6 +194,16 @@ p.copyright {
 	max-height:0px;
 }
 
+.product-img {
+	float: left;
+	display: inline;
+	height: 225px;
+	width: 185px;
+	margin: auto;
+	border-bottom: 1px solid black;
+	padding: 10px;
+}
+
 /*.mask:hover + .mask-img {
 	display:table;
 }*/
